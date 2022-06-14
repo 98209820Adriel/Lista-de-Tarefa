@@ -1,3 +1,47 @@
+Projeto Lista de Tarefas---
+
+
+
+--- Projeto que criado em react que simula uma lista de tarefas diarias virtual onde pode por suas tarefas diarias e depois riscar elas quando feitas----
+
+
+Imagens do Projeto:
+
+![lista-1](https://user-images.githubusercontent.com/87943203/173528191-8b16634a-05a4-4d5e-ad66-47bc5d4f938f.PNG)
+
+
+
+
+
+![lista-2](https://user-images.githubusercontent.com/87943203/173528206-2350bc50-5455-4585-987a-c9a42ab50d47.PNG)
+
+
+
+
+
+![lista-3](https://user-images.githubusercontent.com/87943203/173528228-be65dc9c-99ec-404a-b9ee-7c3c12031672.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
